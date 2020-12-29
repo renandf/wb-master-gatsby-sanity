@@ -9,3 +9,4 @@ This repository is the back-end built in Sanity responsible for providing the co
 - React
 - Gatsby
 - Sanity
+- Serverless functions
